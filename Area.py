@@ -1,3 +1,5 @@
+#Area de figura de Helado
+#Fernando Sebastian Silva Miramontes
 radio = int(input("dame radio "))
 altura = int(input("dame altura "))
 areaMC = (3.1416*radio**2)/2
